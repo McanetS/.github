@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **repox** | Motor de reportes dinámicos | `PHP` | 2026-06-16 |
-| **mcaobra_app** | App de gestión de obras | `Kotlin` | 2026-06-12 |
-| **mp-admin-frontend** | Frontend admin MercadoPago Point | `JavaScript` | 2026-06-12 |
-| **mp-admin-api** | API admin MercadoPago Point | `JavaScript` | 2026-06-12 |
-| **mp-pos-api** | API punto de venta MercadoPago | `JavaScript` | 2026-06-12 |
-| **sdd-ideafix** | Spec Driven Development para Ideafix | `Shell` | 2026-06-11 |
-| **mcp-ideafix** | MCP server del framework Ideafix | `JavaScript` | 2026-06-11 |
-| **obelix-admin-frontend** | Frontend admin de Obelix | `TypeScript` | 2026-05-26 |
+| **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-06-16 |
+| **mcaobra_app** | — | 🟣 `Kotlin` | 2026-06-12 |
+| **mp-admin-frontend** | Frontend admin para gestión multi-cliente de MercadoPag | 🟨 `JavaScript` | 2026-06-12 |
+| **mp-admin-api** | Admin API para gestión multi-cliente de MercadoPago Poi | 🟨 `JavaScript` | 2026-06-12 |
+| **mp-pos-api** | — | 🟨 `JavaScript` | 2026-06-12 |
+| **sdd-ideafix** | Ideafix Spec Driven Development - Enviroment for Ideafi | 🐚 `Shell` | 2026-06-11 |
+| **mcp-ideafix** | Mcp de Framework Ideafix | 🟨 `JavaScript` | 2026-06-11 |
+| **Ulises** | — | ⚙️ `C++` | 2026-06-11 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -68,7 +68,14 @@
 ## Top contribuidores del mes
 
 <!-- CONTRIBUTORS-START -->
-_Sin datos aún — el ranking se genera automáticamente cada lunes._
+| # | Usuario | Commits (30d) |
+|:-:|---------|:-------------:|
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **163** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **136** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **10** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **9** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **7** |
+| `6` | [@claude](https://github.com/claude) | **4** |
 <!-- CONTRIBUTORS-END -->
 
 ---
