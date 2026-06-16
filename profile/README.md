@@ -65,6 +65,14 @@
 
 ---
 
+## Contribuciones al código — último año
+
+<div align="center">
+  <img src="assets/contribution-graph.svg" alt="Contribution graph" />
+</div>
+
+---
+
 ## Top contribuidores del mes
 
 <!-- CONTRIBUTORS-START -->
