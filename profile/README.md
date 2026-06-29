@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **obelix-repox** | Generador de formularios | 🐘 `PHP` | 2026-06-22 |
-| **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-06-22 |
+| **Ulises** | — | ⚙️ `C++` | 2026-06-26 |
+| **obelix-site-frontend** | Front del sitio publico | 🔷 `TypeScript` | 2026-06-25 |
+| **obelix-admin-api** | Api del admin de obelix | 🐘 `PHP` | 2026-06-23 |
+| **obelix-admin-frontend** | Frontend de admin de Obelix | 🔷 `TypeScript` | 2026-06-23 |
+| **obelix-repox** | Generador de formularios | 🐘 `PHP` | 2026-06-23 |
+| **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-06-23 |
+| **obelix-site-api** | Api del Sitio publico  | 🐘 `PHP` | 2026-06-22 |
 | **obelix-project-main** | Orquestador Obelix | 🐚 `Shell` | 2026-06-22 |
-| **obelix-admin-frontend** | Frontend de admin de Obelix | 🔷 `TypeScript` | 2026-06-22 |
-| **obelix-admin-api** | Api del admin de obelix | 🐘 `PHP` | 2026-06-22 |
-| **obelix-site-frontend** | Front del sitio publico | 🔷 `TypeScript` | 2026-06-22 |
-| **mcaobra_app** | — | 🟣 `Kotlin` | 2026-06-19 |
-| **mcaconnectbot** | ConnectBot modificado para Mca | 🟣 `Kotlin` | 2026-06-16 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,12 +78,11 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **160** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **105** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **101** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **6** |
-| `5` | [@claude](https://github.com/claude) | **4** |
-| `6` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **3** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **155** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **93** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **75** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **8** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **6** |
 <!-- CONTRIBUTORS-END -->
 
 ---
