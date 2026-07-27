@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **Ulises** | — | ⚙️ `C++` | 2026-07-18 |
-| **mp-pos-api** | — | 🟨 `JavaScript` | 2026-07-17 |
-| **mp-admin-api** | Admin API para gestión multi-cliente de MercadoPago Poi | 🟨 `JavaScript` | 2026-07-17 |
-| **obelix-repox** | Generador de formularios | 🐘 `PHP` | 2026-07-15 |
-| **dgenix** | Nueva version de dgenix basado en NodeJS | 🟨 `JavaScript` | 2026-07-14 |
-| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-07-13 |
-| **mp-admin-frontend** | Frontend admin para gestión multi-cliente de MercadoPag | 🟨 `JavaScript` | 2026-07-08 |
-| **Importix_rs** | Importacion de datos para tablas postgres. |  `Rust` | 2026-07-03 |
+| **menussh-tui-admin** | Admin TUI de Menussh | 🐍 `Python` | 2026-07-27 |
+| **menussh-webadmin** | Admin web del menussh | 🐍 `Python` | 2026-07-27 |
+| **obelix-repox** | Generador de formularios | 🐘 `PHP` | 2026-07-24 |
+| **ProMeat** | Control del modelo comercial: Venta de carne con servic | 🐘 `PHP` | 2026-07-24 |
+| **zapi-c** | Libreria C de conciliacion de etiquetas | ⚙️ `C` | 2026-07-24 |
+| **zapi-admin-api** | Api del admin del sistema zapi | 🔷 `TypeScript` | 2026-07-23 |
+| **zapi** | Zebra api for Mcanet print labels | 🟨 `JavaScript` | 2026-07-23 |
+| **zapi-admin-frontend** | Front del admin del sistema zapi | 🔷 `TypeScript` | 2026-07-23 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,11 +78,11 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **82** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **23** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **14** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/49660918?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@clawsteel](https://github.com/clawsteel) | **3** |
-| `5` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **3** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **64** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **21** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **10** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/49660918?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@clawsteel](https://github.com/clawsteel) | **4** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **4** |
 <!-- CONTRIBUTORS-END -->
 
 ---
