@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **menussh** | Menussh interactivo para ingresar a clientes | 🐍 `Python` | 2026-08-07 |
-| **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-08-07 |
-| **promociones** | proyecto de promociones |  `—` | 2026-08-07 |
-| **menussh-tui-admin** | Admin TUI de Menussh | 🐍 `Python` | 2026-08-07 |
-| **menussh-webadmin** | Admin web del menussh | 🐍 `Python` | 2026-08-07 |
-| **UConvPdf** | Recibe un archivo de datos (JSON,CSV,XML,etc) y lo tran | 🐘 `PHP` | 2026-08-07 |
-| **UliConf** | Configurador de de base de datos,parametros y tablas pa | 🐘 `PHP` | 2026-08-07 |
-| **precios92** | Migracion de tipos de precio 9,4 a 9,2 | ⚙️ `C` | 2026-08-06 |
+| **Ulises** | — | ⚙️ `C++` | 2026-08-16 |
+| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-08-14 |
+| **precios92** | Migracion de tipos de precio 9,4 a 9,2 | ⚙️ `C` | 2026-08-14 |
+| **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-08-14 |
+| **mp-admin-frontend** | Frontend admin para gestión multi-cliente de MercadoPag | 🟨 `JavaScript` | 2026-08-14 |
+| **mp-admin-api** | Admin API para gestión multi-cliente de MercadoPago Poi | 🟨 `JavaScript` | 2026-08-14 |
+| **Essentia-web** | — |  `Rust` | 2026-08-14 |
+| **UConvPdf** | Recibe un archivo de datos (JSON,CSV,XML,etc) y lo tran | 🐘 `PHP` | 2026-08-12 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,11 +78,11 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **95** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **39** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **9** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **8** |
-| `5` | <img src="https://avatars.githubusercontent.com/u/49660918?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@clawsteel](https://github.com/clawsteel) | **4** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **71** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **45** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **13** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **7** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/49660918?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@clawsteel](https://github.com/clawsteel) | **2** |
 | `6` | <img src="https://avatars.githubusercontent.com/u/289777351?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@jmendez-mr](https://github.com/jmendez-mr) | **1** |
 <!-- CONTRIBUTORS-END -->
 
