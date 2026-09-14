@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **precios92** | Migracion de tipos de precio 9,4 a 9,2 | ⚙️ `C` | 2026-09-04 |
+| **precios92** | Migracion de tipos de precio 9,4 a 9,2 | ⚙️ `C` | 2026-09-14 |
+| **Ulises** | — | ⚙️ `C++` | 2026-09-13 |
+| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-09-11 |
+| **migratix** | Interfaz grafica para la importacion masiva de datos de |  `Rust` | 2026-09-09 |
+| **Importix_rs** | Importacion de datos para tablas postgres. |  `Rust` | 2026-09-09 |
+| **ProMeat** | Control del modelo comercial: Venta de carne con servic | 🐘 `PHP` | 2026-09-08 |
 | **repox** | Motor de reportes dinamicos en PHP | 🐘 `PHP` | 2026-09-03 |
-| **ProMeat** | Control del modelo comercial: Venta de carne con servic | 🐘 `PHP` | 2026-09-03 |
-| **Ulises** | — | ⚙️ `C++` | 2026-09-02 |
-| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-08-27 |
 | **mp-admin-api** | Admin API para gestión multi-cliente de MercadoPago Poi | 🟨 `JavaScript` | 2026-08-21 |
-| **mp-admin-frontend** | Frontend admin para gestión multi-cliente de MercadoPag | 🟨 `JavaScript` | 2026-08-21 |
-| **stop** | Monitor de semaforos | ⚙️ `C` | 2026-08-20 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,10 +78,9 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **46** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **34** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **18** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **13** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@diegoUnlam23](https://github.com/diegoUnlam23) | **71** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **22** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **21** |
 <!-- CONTRIBUTORS-END -->
 
 ---
