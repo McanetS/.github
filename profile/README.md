@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
+| **kotlin_multiplataform** | — | 🟣 `Kotlin` | 2026-10-08 |
+| **mcp-ideafix** | Mcp de Framework Ideafix | 🟨 `JavaScript` | 2026-10-08 |
+| **Ulises** | — | ⚙️ `C++` | 2026-10-08 |
+| **UConvPdf** | Recibe un archivo de datos (JSON,CSV,XML,etc) y lo tran | 🐘 `PHP` | 2026-10-06 |
 | **ProMeat** | Control del modelo comercial: Venta de carne con servic | 🐘 `PHP` | 2026-10-05 |
-| **UConvPdf** | Recibe un archivo de datos (JSON,CSV,XML,etc) y lo tran | 🐘 `PHP` | 2026-10-05 |
 | **prgdmugjs** | Cliente para comunicación con servidores DMUG en NodeJs | 🟨 `JavaScript` | 2026-09-29 |
-| **Ulises** | — | ⚙️ `C++` | 2026-09-29 |
 | **mp-pos-api** | — | 🟨 `JavaScript` | 2026-09-25 |
 | **precios92** | Migracion de tipos de precio 9,4 a 9,2 | ⚙️ `C` | 2026-09-24 |
-| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-09-21 |
-| **Importix_rs** | Importacion de datos para tablas postgres. |  `Rust` | 2026-09-21 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,9 +78,10 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **42** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **19** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **1** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **18** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **12** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **6** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **1** |
 <!-- CONTRIBUTORS-END -->
 
 ---
