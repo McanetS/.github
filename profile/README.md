@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **prgdmugjs** | Cliente para comunicación con servidores DMUG en NodeJs | 🟨 `JavaScript` | 2026-10-17 |
-| **kotlin_multiplataform** | — | 🟣 `Kotlin` | 2026-10-16 |
-| **arca-api** | Api de gestion contra Arca | 🟨 `JavaScript` | 2026-10-16 |
-| **UConvPdf** | Recibe un archivo de datos (JSON,CSV,XML,etc) y lo tran | 🐘 `PHP` | 2026-10-16 |
-| **arca-admin-frontend** | Frontend del admin del gestor de ARCA | 🟨 `JavaScript` | 2026-10-16 |
-| **arca-admin-api** | Backend del administrador de ARCA | 🟨 `JavaScript` | 2026-10-15 |
-| **wsfephp** | — |  `—` | 2026-10-15 |
-| **wsfe** | — | 🐘 `PHP` | 2026-10-15 |
+| **impixjs** | Impix en NodeJs | 🟨 `JavaScript` | 2026-10-24 |
+| **dgenix** | Nueva version de dgenix basado en NodeJS | 🟨 `JavaScript` | 2026-10-24 |
+| **ConsulPreEti** | — | 🟣 `Kotlin` | 2026-10-21 |
+| **caudalimetro-node-server-v2** | Servidor Node.js puro para caudalímetro MODBUS (sin ffi | 🟨 `JavaScript` | 2026-10-21 |
+| **kotlin_multiplataform** | — | 🟣 `Kotlin` | 2026-10-21 |
+| **arca-admin-frontend** | Frontend del admin del gestor de ARCA | 🟨 `JavaScript` | 2026-10-19 |
+| **arca-admin-api** | Backend del administrador de ARCA | 🟨 `JavaScript` | 2026-10-19 |
+| **arca-api** | Api de gestion contra Arca | 🟨 `JavaScript` | 2026-10-19 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,10 +78,11 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **100** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **13** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **13** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **9** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **135** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **31** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **22** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **6** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **4** |
 <!-- CONTRIBUTORS-END -->
 
 ---
