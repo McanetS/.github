@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **Ulises** | — | ⚙️ `C++` | 2026-10-30 |
-| **Delfos** | — | 🟣 `Kotlin` | 2026-10-29 |
+| **Delfos** | — | 🟣 `Kotlin` | 2026-11-06 |
+| **dbfix** | Interfaz base de datos IDEAFIX | 🐍 `Python` | 2026-11-05 |
+| **prgdmugjs** | Cliente para comunicación con servidores DMUG en NodeJs | 🟨 `JavaScript` | 2026-11-04 |
+| **Ulises** | — | ⚙️ `C++` | 2026-11-03 |
 | **mp-pos-api** | — | 🟨 `JavaScript` | 2026-10-28 |
 | **admtec-web-frontend** | Front para el sistema de administracion de recursos tec | 🔷 `TypeScript` | 2026-10-27 |
 | **admtec-web-api** | Api para el sistema de administracion de recursos tecni | 🐘 `PHP` | 2026-10-27 |
 | **impixjs** | Impix en NodeJs | 🟨 `JavaScript` | 2026-10-24 |
-| **dgenix** | Nueva version de dgenix basado en NodeJS | 🟨 `JavaScript` | 2026-10-24 |
-| **ConsulPreEti** | — | 🟣 `Kotlin` | 2026-10-21 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -79,10 +79,10 @@
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
 | 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **192** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **38** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **33** |
 | 🥉 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **22** |
-| `4` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **6** |
-| `5` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **4** |
+| `4` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **5** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **3** |
 <!-- CONTRIBUTORS-END -->
 
 ---
