@@ -26,14 +26,14 @@
 <!-- REPOS-START -->
 | Repositorio | Descripción | Lenguaje | Última actividad |
 |-------------|-------------|----------|:----------------:|
-| **kotlin_multiplataform** | — | 🟣 `Kotlin` | 2026-11-13 |
-| **triariusjs** | Nueva version Triarius en NodeJs | 🟨 `JavaScript` | 2026-11-12 |
-| **Delfos** | — | 🟣 `Kotlin` | 2026-11-12 |
-| **dmugjs** | Nuevo Demiurgo en NodeJs | 🟨 `JavaScript` | 2026-11-12 |
-| **Ulises** | — | ⚙️ `C++` | 2026-11-10 |
-| **dbfix** | Interfaz base de datos IDEAFIX | 🐍 `Python` | 2026-11-05 |
-| **prgdmugjs** | Cliente para comunicación con servidores DMUG en NodeJs | 🟨 `JavaScript` | 2026-11-04 |
-| **mp-pos-api** | — | 🟨 `JavaScript` | 2026-10-28 |
+| **mcaobra** | Pagina web de la planilla del asigobra | 🟨 `JavaScript` | 2026-11-23 |
+| **mcaobra_app** | — | 🟣 `Kotlin` | 2026-11-20 |
+| **prgdmugjs** | Cliente para comunicación con servidores DMUG en NodeJs | 🟨 `JavaScript` | 2026-11-20 |
+| **menussh** | Menussh interactivo para ingresar a clientes | 🐍 `Python` | 2026-11-19 |
+| **nove** | Versionador y depliegue de fuentes | 🐍 `Python` | 2026-11-18 |
+| **mp-admin-frontend** | Frontend admin para gestión multi-cliente de MercadoPag | 🌐 `HTML` | 2026-11-18 |
+| **triarius-central** | — | 🟨 `JavaScript` | 2026-11-18 |
+| **triariusjs** | Nueva version Triarius en NodeJs | 🟨 `JavaScript` | 2026-11-18 |
 <!-- REPOS-END -->
 
 > _Actualizado automáticamente · se muestran los 8 repos con más actividad reciente_
@@ -78,11 +78,11 @@
 <!-- CONTRIBUTORS-START -->
 | # | Usuario | Commits (30d) |
 |:-:|---------|:-------------:|
-| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **95** |
-| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **43** |
-| 🥉 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **24** |
+| 🥇 | <img src="https://avatars.githubusercontent.com/u/237035387?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@rguevara-mcanet](https://github.com/rguevara-mcanet) | **93** |
+| 🥈 | <img src="https://avatars.githubusercontent.com/u/86412565?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@NicoAguirreMca](https://github.com/NicoAguirreMca) | **25** |
+| 🥉 | <img src="https://avatars.githubusercontent.com/u/13697567?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@cygnus2k](https://github.com/cygnus2k) | **10** |
 | `4` | <img src="https://avatars.githubusercontent.com/u/227247987?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@aguevara-sudo](https://github.com/aguevara-sudo) | **5** |
-| `5` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **2** |
+| `5` | <img src="https://avatars.githubusercontent.com/u/211538472?v=4&s=20" width="20" height="20" style="border-radius:50%"> [@dwsdev21](https://github.com/dwsdev21) | **3** |
 <!-- CONTRIBUTORS-END -->
 
 ---
